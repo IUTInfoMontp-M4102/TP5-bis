@@ -1,5 +1,7 @@
 # TD5(bis) - Trains
 
+Lien GitHub Classroom pour [faire un fork privé du TP](https://classroom.github.com/a/70jpayuf)
+
 Le but de ce TD est d’utiliser des tâches et des sémaphores pour résoudre des problèmes d’exclusion mutuelle.
 
 On s’intéresse à l’exemple de trains voulant emprunter une voie unique.
